@@ -1,6 +1,6 @@
 cask "attic" do
-  version "0.2.24"
-  sha256 "1ec808a49a417c91a9df97cd3d847c76ad500f8d0f9f962a695e163a8c9ec2e2"
+  version "0.2.25"
+  sha256 "1a81c6aa6f781e90e337f21bf49e1ca2115e8b94db86c726a7379af800c4a41f"
 
   url "https://github.com/rayforvideos/attic/releases/download/v#{version}/Attic-#{version}.dmg"
   name "Attic"
